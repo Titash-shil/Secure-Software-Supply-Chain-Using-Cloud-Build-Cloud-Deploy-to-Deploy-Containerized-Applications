@@ -10,11 +10,11 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Google-Kubernetes-Engine-Security-Binary-Authorization-GSP479/refs/heads/main/qwiklab_explorers_gsp479.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Secure-Software-Supply-Chain-Using-Cloud-Build-Cloud-Deploy-to-Deploy-Containerized-Applications/refs/heads/main/qwiklab_explorers_gsp1092.sh
 
-sudo chmod +x qwiklab_explorers_gsp479.sh
+sudo chmod +x qwiklab_explorers_gsp1092.sh
 
-./qwiklab_explorers_gsp479.sh
+./qwiklab_explorers_gsp1092.sh
 ```
 
 ---
